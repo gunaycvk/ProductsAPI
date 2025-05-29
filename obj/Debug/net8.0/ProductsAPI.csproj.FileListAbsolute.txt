@@ -136,10 +136,6 @@ C:\Users\trans\ProductsAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces
 C:\Users\trans\ProductsAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\trans\ProductsAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\Users\trans\ProductsAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
-C:\Users\trans\ProductsAPI\bin\Debug\net8.0\runtimes\alpine-arm\native\libe_sqlite3.so
-C:\Users\trans\ProductsAPI\bin\Debug\net8.0\runtimes\alpine-arm64\native\libe_sqlite3.so
-C:\Users\trans\ProductsAPI\bin\Debug\net8.0\runtimes\alpine-x64\native\libe_sqlite3.so
-C:\Users\trans\ProductsAPI\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
 C:\Users\trans\ProductsAPI\bin\Debug\net8.0\runtimes\linux-arm\native\libe_sqlite3.so
 C:\Users\trans\ProductsAPI\bin\Debug\net8.0\runtimes\linux-arm64\native\libe_sqlite3.so
 C:\Users\trans\ProductsAPI\bin\Debug\net8.0\runtimes\linux-armel\native\libe_sqlite3.so
@@ -160,3 +156,5 @@ C:\Users\trans\ProductsAPI\bin\Debug\net8.0\runtimes\win-arm64\native\e_sqlite3.
 C:\Users\trans\ProductsAPI\bin\Debug\net8.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\Users\trans\ProductsAPI\bin\Debug\net8.0\runtimes\win-x86\native\e_sqlite3.dll
 C:\Users\trans\ProductsAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\trans\ProductsAPI\bin\Debug\net8.0\runtimes\browser-wasm\nativeassets\net8.0\e_sqlite3.a
+C:\Users\trans\ProductsAPI\bin\Debug\net8.0\runtimes\linux-musl-s390x\native\libe_sqlite3.so
